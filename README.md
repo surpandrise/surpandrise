@@ -1,6 +1,6 @@
 
-- 👋 Hi, I’m @surpandrise
+- Hi, I’m @surpandrise
 
-- Knowledge of HTML&CSS and JavaScript
+- Knowledge of HTML & CSS and JavaScript
 
-- currently learning React
+- Currently learning React and SASS & SCSS
